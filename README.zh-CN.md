@@ -3,6 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Node](https://img.shields.io/badge/node-%3E%3D20-brightgreen.svg)](https://nodejs.org)
 
+
+测试视频：https://x.com/Ethan0084/status/2102346614073602243
+
 *[English](README.md)*
 
 在同一份 1,000 条报销数据上对比两种 AI 架构，最终业务输出相同：四选一处理路线。
